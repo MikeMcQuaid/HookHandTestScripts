@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "TEST!"
+echo "parameters: $*"
+echo "HOOKHAND* environment variables:"
+env | grep '^HOOKHAND' || true
