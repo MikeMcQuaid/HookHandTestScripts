@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "zzzz"
+sleep 5
+echo "yawn"
